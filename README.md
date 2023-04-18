@@ -1,2 +1,1 @@
-# password-project
-password-project
+# basic python project and algorithm examples
